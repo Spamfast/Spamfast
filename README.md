@@ -4,6 +4,7 @@
   - STEM, especially physics, evolutionary biology & organic chemistry;
   - European culture & languages.
 - 🌱 I’m currently learning ...
+  - [ESPHome](https://esphome.io/) and [Home Assistant](https://www.home-assistant.io/);
   - [Yocto](https://www.yoctoproject.org/) & OpenEmbedded Linux;
   - NXP i.MX8 AMP;
   - The [Zephyr Project](https://www.zephyrproject.org/);
