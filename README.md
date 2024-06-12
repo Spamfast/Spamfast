@@ -1,12 +1,13 @@
 - 👋 Hi, I’m @Spamfast
 - 👀 I’m interested in ...
-  - Embedded systems;
-  - Physics;
+  - Bare metal & embedded Linux systems;
+  - Physics, evolutionary biology & chemistry;
   - European culture & languages.
 - 🌱 I’m currently learning ...
-  - Yocto;
-  - OpenWrt;
-  - German & Danish.
+  - Yocto & OpenEmbedded Linux;
+  - NXP i.MX8 AMP;
+  - OpenWrt & nftables;
+  - Danish.
 - 💞️ I’m looking to collaborate on ...
   - Nothing at present.
 - 📫 How to reach me ...
