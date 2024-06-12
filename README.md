@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Spamfast
+- 👋 Hi, I’m @Spamfast (son of [Halfwit](https://archive.org/details/isbn_0451126548))
 - 👀 I’m interested in ...
   - Bare metal & embedded Linux systems;
   - STEM, especially physics, evolutionary biology & organic chemistry;
@@ -9,10 +9,11 @@
   - The [Zephyr Project](https://www.zephyrproject.org/);
   - [OpenWrt](https://openwrt.org/docs/guide-developer/) & [nftables](https://www.nftables.org/);
   - The [Danish](https://denmark.dk/) language.
-- 📚 I'm trying to improve ...
-  - My German, French & Spanish;
-  - My patience with others;
-  - My diet.
+- 📚 I'm trying to ...
+  - Improve my German, French & Spanish;
+  - Have a better attitude;
+  - Get out more;
+  - Read something other than technical documents.
 - 💞️ I’m looking to collaborate on ...
   - Nothing at present.
 - 📫 How to reach me ...
