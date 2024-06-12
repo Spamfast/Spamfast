@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Spamfast (son of [Halfwit](https://archive.org/details/isbn_0451126548))
 - 👀 I’m interested in ...
   - Bare metal & embedded Linux systems;
-  - STEM, especially physics, evolutionary biology & organic chemistry;
+  - STEM, especially relatavistic & high energy physics, evolutionary biology & organic chemistry;
   - European culture & languages.
 - 🌱 I’m currently learning ...
   - [ESPHome](https://esphome.io/) and [Home Assistant](https://www.home-assistant.io/);
