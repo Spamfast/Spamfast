@@ -1,13 +1,18 @@
 - 👋 Hi, I’m @Spamfast
 - 👀 I’m interested in ...
   - Bare metal & embedded Linux systems;
-  - Physics, evolutionary biology & chemistry;
+  - STEM, especially physics, evolutionary biology & organic chemistry;
   - European culture & languages.
 - 🌱 I’m currently learning ...
-  - Yocto & OpenEmbedded Linux;
+  - [Yocto](https://www.yoctoproject.org/) & OpenEmbedded Linux;
   - NXP i.MX8 AMP;
-  - OpenWrt & nftables;
-  - Danish.
+  - The [Zephyr Project](https://www.zephyrproject.org/);
+  - [OpenWrt](https://openwrt.org/docs/guide-developer/) & [nftables](https://www.nftables.org/);
+  - The [Danish](https://denmark.dk/) language.
+- 📚 I'm trying to improve ...
+  - My German, French & Spanish;
+  - My patience with others;
+  - My diet.
 - 💞️ I’m looking to collaborate on ...
   - Nothing at present.
 - 📫 How to reach me ...
