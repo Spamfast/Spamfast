@@ -5,9 +5,6 @@
   - European culture & languages.
 - 🌱 I’m currently learning ...
   - [ESPHome](https://esphome.io/) and [Home Assistant](https://www.home-assistant.io/);
-  - [Yocto](https://www.yoctoproject.org/) & OpenEmbedded Linux;
-  - NXP i.MX8 AMP;
-  - The [Zephyr Project](https://www.zephyrproject.org/);
   - [OpenWrt](https://openwrt.org/docs/guide-developer/) & [nftables](https://www.nftables.org/);
   - The [Danish](https://denmark.dk/) language.
 - 📚 I'm trying to ...
