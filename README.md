@@ -4,7 +4,7 @@
   - STEM, especially relativistic & high energy physics, evolutionary biology & organic chemistry;
   - European culture & languages.
 - 🌱 I’m currently learning ...
-  - PowerShell, .NET & [P/Invoke](https://learn.microsoft.com/en-us/dotnet/standard/native-interop/pinvoke) for automating Windows tasks;
+  - PowerShell, C# & [P/Invoke](https://learn.microsoft.com/en-us/dotnet/standard/native-interop/pinvoke) for automating Windows tasks;
   - [nftables](https://www.nftables.org/);
   - The [Danish](https://denmark.dk/) language.
 - 📚 I'm always trying to ...
