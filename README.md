@@ -4,10 +4,10 @@
   - STEM, especially relativistic & high energy physics, evolutionary biology & organic chemistry;
   - European culture & languages.
 - 🌱 I’m currently learning ...
-  - [ESPHome](https://esphome.io/) and [Home Assistant](https://www.home-assistant.io/);
-  - [OpenWrt](https://openwrt.org/docs/guide-developer/) & [nftables](https://www.nftables.org/);
+  - PowerShell, .NET & [P/Invoke](https://learn.microsoft.com/en-us/dotnet/standard/native-interop/pinvoke) for automating Windows tasks;
+  - [nftables](https://www.nftables.org/);
   - The [Danish](https://denmark.dk/) language.
-- 📚 I'm trying to ...
+- 📚 I'm always trying to ...
   - Improve my German, French & Spanish;
   - Have a better attitude;
   - Get out more;
